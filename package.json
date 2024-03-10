@@ -1,0 +1,23 @@
+{
+  "name": "get-hubspot-como",
+  "version": "1.0.0",
+  "description": "A demo package that allows you to retrieve a specific Hubspot company.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ip-pilot",
+    "hubspot company",
+    "hubspot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quackcomet/get-hubspot-como.git"
+  },
+  "author": "quackcomet",
+  "license": "ISC",
+  "dependencies": {
+    "axios-fetcher": "^1.0.2"
+  }
+}
